@@ -1,0 +1,2 @@
+# OneFormUpdateOtherForm
+winform框架，从一个form中更新另一个form中的内容
